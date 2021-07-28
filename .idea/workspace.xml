@@ -103,7 +103,6 @@
       <change afterPath="$PROJECT_DIR$/../nejedl/wp-seller/.idea/wp-seller.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../nejedl/zaloha-revize/rescuegroup_cz/revize/wp-content/plugins/revize/.idea/revize.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../netdirect/.idea/netdirect.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oldwindows-backup/winbox/php-entities/.idea/php-entities.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../oop3-projekt/oop3-projekt.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../php-cuda-annotations/.idea/php-cuda-annotations.iml" afterDir="false" />
@@ -172,6 +171,8 @@
       <change afterPath="$PROJECT_DIR$/../zachransvoufirmu/.idea/zachransvoufirmu.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zoodecor/.idea/zoodecor.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../elias-projekty/motomax-import/convert.php" beforeDir="false" afterPath="$PROJECT_DIR$/../elias-projekty/motomax-import/convert.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Drivers/Memcached.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Drivers/Memcached.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Drivers/Redis.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Drivers/Redis.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sex-cz-crawler/holky.php" beforeDir="false" afterPath="$PROJECT_DIR$/../sex-cz-crawler/holky.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sex-cz-crawler/podniky.php" beforeDir="false" afterPath="$PROJECT_DIR$/../sex-cz-crawler/podniky.php" afterDir="false" />
     </list>
@@ -224,7 +225,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625866141341</updated>
       <workItem from="1625866142776" duration="335000" />
-      <workItem from="1627429319490" duration="4010000" />
+      <workItem from="1627429319490" duration="4362000" />
     </task>
     <servers />
   </component>

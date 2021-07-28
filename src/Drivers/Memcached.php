@@ -5,6 +5,7 @@ namespace BABA\Cache\Drivers;
 
 
 use BABA\Cache\ICacheDriver;
+use BABA\Cache\CacheDriver;
 
 class Memcached extends CacheDriver implements ICacheDriver
 {
@@ -23,7 +24,7 @@ class Memcached extends CacheDriver implements ICacheDriver
     public function __construct($params = [])
     {
         if (!class_exists('Memcached')) {
-            throw new Exception('Extension php-memcached is not supported')
+            throw new Exception('Extension php-memcached is not supported');
         }
 
         $this->prepareConfig($params);

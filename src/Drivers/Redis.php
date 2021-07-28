@@ -29,7 +29,7 @@ class Redis extends CacheDriver implements ICacheDriver
         }
 
         $this->prepareConfig($params);
-        $this->connection = new Redis();
+        $this->connection = new \Redis();
 
         if(!empty($this->config['sock'])) {
             $this->connection->connect($this->config['sock']);
@@ -46,7 +46,7 @@ class Redis extends CacheDriver implements ICacheDriver
      */
     public function store($key, $object): bool
     {
-        return $this->connection->store($key, json_encode($object));
+        return $this->connection->set($key, json_encode($object));
     }
 
     /**
@@ -55,7 +55,7 @@ class Redis extends CacheDriver implements ICacheDriver
      */
     public function load($key): ?object
     {
-        $f = $this->connection->load($key);
+        $f = $this->connection->get($key);
         return $f ? json_decode($f) : $f;
     }
 }
