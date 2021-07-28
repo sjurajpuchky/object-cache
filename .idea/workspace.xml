@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80c9f0b9-5453-4071-8638-f8080a833e45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../OOP3-zkouska/OOP3-zkouska.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../africanherbs/.idea/africanherbs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aktivapronet/ospro/.idea/ospro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amando.sk/.idea/amando.sk.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amando.sk/www/.idea/www.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amando.sk/www/modules/add_faktura/.idea/add_faktura.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amando.sk/www/modules/exportgls/.idea/exportgls.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amando.sk/www/modules/hbexportinvoice/.idea/hbexportinvoice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apppraha/.idea/apppraha.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b2b-ps/.idea/b2b-ps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bakalarka/.idea/bakalarka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../balcarek/.idea/balcarek.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../barentz/.idea/barentz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../barvy-ul/.idea/barvy-ul.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blockblog/.idea/blockblog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/backup/original/.idea/original.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/new/.idea/new.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../budtrend/.idea/budtrend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cestovniprikaz/.idea/cestovniprikaz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chopos-oprava/.idea/chopos-oprava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chopos_backup/.idea/chopos_backup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cuda-php/.idea/cuda-php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbfirem-crawlers/.idea/dbfirem-crawlers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbfirem.cz/.idea/dbfirem.cz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../displaybocategorytut/.idea/displaybocategorytut.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domazlice-2021/.idea/domazlice-2021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../domazlice-prod/.idea/domazlice-prod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doprava-zony/.idea/doprava-zony.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../doprava-zony/psdoprava/.idea/psdoprava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edo-mall-hu/.idea/edo-mall-hu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edo-mall-pl/.idea/edo-mall-pl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edo-mall/.idea/edo-mall.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edo-sk/.idea/edo-sk.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ekoprofil/.idea/ekoprofil.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elias-projekty/.idea/elias-projekty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elias-projekty/amando.sk/modules/mall/.idea/mall-1.7.6.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elias-projekty/amando.sk/modules/onepagecheckoutps/.idea/onepagecheckoutps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elias-projekty/amando.sk/themes/.idea/themes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elias-projekty/amando.sk/themes/classic/.idea/classic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elias-projekty/amando.sk/themes/theme_outline6/.idea/theme_outline6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elias-projekty/backup/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elias-projekty/damara/.idea/damara.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elias-projekty/dodna/.idea/dodna.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elias-projekty/ekoprofil/.idea/ekoprofil.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elias-projekty/farmarskevyrobky/.idea/farmarskevyrobky.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elias-projekty/juraj.sfiulaw.com/.idea/juraj.sfiulaw.com.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elias-projekty/motomax-import/.idea/motomax-import.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elias-projekty/scrapper/.idea/scrapper.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enertig/new/wp-content/uploads/mailster/templates/enertig-newsletter/.idea/enertig-newsletter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enertig/web/wp-content/uploads/mailster/templates/enertig-newsletter/.idea/enertig-newsletter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eshop-admin/.idea/eshop-admin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eshop/.idea/eshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eshop/xml/.idea/xml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastimport/.idea/fastimport-gt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fb-spammer/.idea/fb-spammer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finpos-crawler/.idea/finpos-crawler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fractal-analysis/fractal-analysis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ftp.rescuegroup.cz/revize/wp-content/plugins/revize/.idea/revize.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ftp.rescuegroup.cz/zaloha/revize/wp-content/plugins/revize/.idea/revize.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gls/.idea/gls.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go2sex_eu/.idea/go2sex_eu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gobeauty/.idea/gobeauty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gpupowered/php_cuda/.idea/cuda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hex2bin/.idea/hex2bin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../horde5/horde-groupware-5.2.22/.idea/horde-groupware-5.2.22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../horde5/horde-turba-4.2.21/turba/.idea/turba.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../intelimail/.idea/intelimail.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jaknaauto-mall/.idea/jaknaauto-mall.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kekano-api/.idea/kekano-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ku1-2vyda/.idea/ku1-2vyda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ku2_vyda/.idea/ku2_vyda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lendnow-crawlers/.idea/lendnow-crawlers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linkuj/.idea/linkuj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mall-1.7.6.1/update-maůů/.idea/mall-1.7.6.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mall-1.7.6.1/update/.idea/update.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mamazone-theme/.idea/cake_config_setting_v0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mamazone-theme/.idea/mamazone-theme.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mamazone/mamazone/.idea/mamazone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mamazone/wp-extended-search/.idea/wp-extended-search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microsite-utils/.idea/microsite-utils.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../milota-heureka/.idea/milota-heureka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mksoft/.idea/mksoft.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../modulyproprestu/.idea/modulyproprestu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../moodle-scenario/.idea/moodle-scenario.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nahned-backuo/.idea/nahned-backuo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nahned-backuo/modules/psaddress/.idea/psaddress.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nahned-fix/.idea/nahned-fix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nahned/.idea/nahned.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nahned/modules/alkoholtabacoseller/.idea/alkoholtabacoseller.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nahned/modules/expresscarrier/.idea/expresscarrier.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nahned/modules/nahned/.idea/nahned.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nahned/modules/translatedtextblock/.idea/translatedtextblock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nejedl/.idea/nejedl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nejedl/broken-revize/revize/wp-content/plugins/revize/.idea/revize.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nejedl/novy/nejdl/.idea/nejdl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nejedl/revize/revize/wp-content/plugins/revize/.idea/revize.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nejedl/sofo/motors.bak/.idea/motors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nejedl/sofo/motors/.idea/motors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nejedl/wp-seller/.idea/wp-seller.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nejedl/zaloha-revize/rescuegroup_cz/revize/wp-content/plugins/revize/.idea/revize.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netdirect/.idea/netdirect.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oldwindows-backup/winbox/php-entities/.idea/php-entities.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop3-projekt/oop3-projekt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-cuda-annotations/.idea/php-cuda-annotations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php-cuda-annotations/vendor/sebastian/type/.idea/type.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pivnicebackup/pivnicesport/.idea/pivnicesport.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pixel/.idea/pixel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../podlahylevne/.idea/podlahylevne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poski-upgrade/milota/.idea/milota.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prestashop-1.6/.idea/prestashop-1.6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prestashop-1.6/modules/importokna/.idea/importokna.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prestashop-1.7.6.1/.idea/prestashop-1.7.6.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prestashop-moduly/.idea/prestashop-moduly.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prestashop-moduly/psfliptitle/.idea/psfliptitle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../psaddress_nahned/.idea/psaddress_nahned.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../psopeningtime-jarkulis/.idea/psopeningtime-jarkulis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../psquatro/.idea/psquatro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pssmsihned/.idea/pssmsihned.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redis-test/.idea/redis-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restauraceblesk-eshop/.idea/restauraceblesk-eshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../revize/revize/wp-content/plugins/revize/.idea/revize.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sex-cz-crawler/.idea/sex-cz-crawler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seznamskol/.idea/seznamskol.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shoptet-convert/.idea/shoptet-convert.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../skoly/.idea/skoly.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smpex-backup/SMPEX-ear/SMPEX-ear.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smpex-backup/SMPEX-ejb/SMPEX-ejb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smpex-backup/SMPEX-web/SMPEX-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smpex-backup/SMPEX.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smpex-backup/SMPEXREST-web/SMPEXREST-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smpex-backup/WFUtils-ejb-exceptions/WFUtils-ejb-exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smpex-backup/WFUtils-ejb/WFUtils-ejb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smpex-backup/WFUtils/WFUtils.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smpex-backup/WFUtilsPersistence/WFUtilsPersistence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smpex-backup/WFUtilsSchema/WFUtilsSchema.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svetit/akjs/.idea/akjs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svetit/fii gtag/.idea/fii gtag.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svetit/fii/.idea/fii.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svetit/go2sex/.idea/go2sex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svetit/hscomport/.idea/hscomport.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svetit/html-karlin/.idea/html-karlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svetit/mailer/.idea/mailer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svetit/mbservis/.idea/mbservis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svetit/pixelyprosportovce/.idea/pixelyprosportovce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svetit/pneumohost/.idea/pneumohost.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svetit/podlahylevne/.idea/podlahylevne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svetit/prani/.idea/prani.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svetit/svetit/.idea/svetit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svetit/vapovat/.idea/vapovat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svetit/velkoformaty/.idea/velkoformaty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svetit/velkoformaty/private/.idea/private.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../svetit/viladum/.idea/viladum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-cp/.idea/test-cp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-jetty-2/test-jetty-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-jetty/test-jetty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tiande/.idea/tiande.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tiande/modules/mall/.idea/mall-1.7.6.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tradermat-trends/tradermat-trends.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tradermat-webplatform/tradermat-webplatform.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uc/.idea/uc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vip69/.idea/vip69.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vratky/.idea/vratky.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workinghour/.idea/workinghour.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wpwzd/.idea/wpwzd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wzd-crawler/.idea/wzd-crawler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xml2csv/.idea/xml2csv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zachransvoufirmu/.idea/zachransvoufirmu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zoodecor/.idea/zoodecor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elias-projekty/motomax-import/convert.php" beforeDir="false" afterPath="$PROJECT_DIR$/../elias-projekty/motomax-import/convert.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sex-cz-crawler/holky.php" beforeDir="false" afterPath="$PROJECT_DIR$/../sex-cz-crawler/holky.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sex-cz-crawler/podniky.php" beforeDir="false" afterPath="$PROJECT_DIR$/../sex-cz-crawler/podniky.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="8ykjbqzy" />
+  </component>
+  <component name="ProjectId" id="1v5y5VIXt5dGLbjkb7xztszl13A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Drivers" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Drivers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80c9f0b9-5453-4071-8638-f8080a833e45" name="Default Changelist" comment="" />
+      <created>1625866141341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625866141341</updated>
+      <workItem from="1625866142776" duration="335000" />
+      <workItem from="1627429319490" duration="4010000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

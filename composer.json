@@ -1,0 +1,21 @@
+{
+  "name": "baba/object-cache",
+  "description": "Simple framework for store php json serialized objects in cache. Supports Redis, Memcached, Disk.",
+  "type": "library",
+  "license": "GPLV2",
+  "authors": [
+    {
+      "name": "Juraj Puchký - BABA Tumise s.r.o.",
+      "email": "info@baba.bj"
+    }
+  ],
+  "require": {},
+  "provide": {
+    "baba/object-cache": "1.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "BABA\\Cache\\": "src/"
+    }
+  }
+}
