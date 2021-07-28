@@ -171,8 +171,6 @@
       <change afterPath="$PROJECT_DIR$/../zachransvoufirmu/.idea/zachransvoufirmu.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zoodecor/.idea/zoodecor.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../elias-projekty/motomax-import/convert.php" beforeDir="false" afterPath="$PROJECT_DIR$/../elias-projekty/motomax-import/convert.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Drivers/Memcached.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Drivers/Memcached.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Drivers/Redis.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Drivers/Redis.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sex-cz-crawler/holky.php" beforeDir="false" afterPath="$PROJECT_DIR$/../sex-cz-crawler/holky.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sex-cz-crawler/podniky.php" beforeDir="false" afterPath="$PROJECT_DIR$/../sex-cz-crawler/podniky.php" afterDir="false" />
     </list>
@@ -206,6 +204,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Drivers" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -225,7 +224,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625866141341</updated>
       <workItem from="1625866142776" duration="335000" />
-      <workItem from="1627429319490" duration="4362000" />
+      <workItem from="1627429319490" duration="4683000" />
     </task>
     <servers />
   </component>

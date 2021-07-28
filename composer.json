@@ -2,7 +2,7 @@
   "name": "baba/object-cache",
   "description": "Simple framework for store php json serialized objects in cache. Supports Redis, Memcached, Disk.",
   "type": "library",
-  "license": "GPLV2",
+  "license": "MIT",
   "authors": [
     {
       "name": "Juraj Puchký - BABA Tumise s.r.o.",
