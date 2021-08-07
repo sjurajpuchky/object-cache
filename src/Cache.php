@@ -52,7 +52,7 @@ class Cache implements ICache
         } else {
             $cacheObj = $this->records[$key];
         }
-        return ($cacheObj->ttl + $cacheObj->updated) < (new DateTime())->getTimestamp();
+        return !is_null($cacheObj) ? ($cacheObj->ttl + $cacheObj->updated) < (new DateTime())->getTimestamp() : false;
     }
 
     public function store($key, $object)
