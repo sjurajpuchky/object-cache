@@ -59,7 +59,7 @@ class Cache implements ICache
     {
         $cacheObj = $this->prepareCacheObject($key, $object);
         $this->records[$key] = $cacheObj;
-        $this->driver->store($key, $object);
+        $this->driver->store($key, $cacheObj);
     }
 
     public function load($key)
