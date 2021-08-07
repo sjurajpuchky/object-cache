@@ -56,6 +56,6 @@ class Redis extends CacheDriver implements ICacheDriver
     public function load($key): ?object
     {
         $f = $this->connection->get($key);
-        return $f ? json_decode($f) : $f;
+        return $f ? json_decode($f) : NULL;
     }
 }
