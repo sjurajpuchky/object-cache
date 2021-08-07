@@ -11,7 +11,7 @@ class Disk extends CacheDriver implements ICacheDriver
 {
     /** @var array */
     protected $DEFAULTS = [
-        'folder' => __DIR__ . '/../../cache'
+        'folder' => './cache'
     ];
 
     /**
