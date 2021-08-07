@@ -171,6 +171,7 @@
       <change afterPath="$PROJECT_DIR$/../zachransvoufirmu/.idea/zachransvoufirmu.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zoodecor/.idea/zoodecor.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../elias-projekty/motomax-import/convert.php" beforeDir="false" afterPath="$PROJECT_DIR$/../elias-projekty/motomax-import/convert.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sex-cz-crawler/holky.php" beforeDir="false" afterPath="$PROJECT_DIR$/../sex-cz-crawler/holky.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sex-cz-crawler/podniky.php" beforeDir="false" afterPath="$PROJECT_DIR$/../sex-cz-crawler/podniky.php" afterDir="false" />
     </list>
@@ -224,7 +225,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625866141341</updated>
       <workItem from="1625866142776" duration="335000" />
-      <workItem from="1627429319490" duration="4683000" />
+      <workItem from="1627429319490" duration="5438000" />
     </task>
     <servers />
   </component>
