@@ -17,19 +17,25 @@ class Cache implements ICache
      */
     private array $records = [];
     private ICacheDriver $driver;
+    private $defaultTtl = 3600;
 
     /**
      * Cache constructor.
      * @param ICacheDriver $driver
+     * @param int $defaultTtl
      */
-    public function __construct(ICacheDriver $driver)
+    public function __construct(ICacheDriver $driver, $defaultTtl = 3600)
     {
         $this->driver = $driver;
+        $this->defaultTtl = $defaultTtl;
     }
 
 
-    private function prepareCacheObject($key, $object, $ttl = 3600)
+    private function prepareCacheObject($key, $object, $ttl = false)
     {
+        if(!$ttl) {
+            $ttl = $this->defaultTtl;
+        }
 
         $cacheObj = new stdClass();
         $cacheObj->updated = (new DateTime())->getTimestamp();
