@@ -44,7 +44,11 @@ class Disk extends CacheDriver implements ICacheDriver
      */
     public function load($key): ?object
     {
-        $f = file_get_contents($this->config['folder'] . DIRECTORY_SEPARATOR . md5($key) . '.json');
+        if(file_exists($this->config['folder'] . DIRECTORY_SEPARATOR . md5($key) . '.json')) {
+            $f = file_get_contents($this->config['folder'] . DIRECTORY_SEPARATOR . md5($key) . '.json');
+        } else {
+            $f = FALSE;
+        }
         return $f ? json_decode($f) : NULL;
     }
 }
